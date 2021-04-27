@@ -1,0 +1,2 @@
+#define VERSION_MAJOR @LPlateDetector_VERSION_MAJOR@
+#define VERSION_MINOR @LPlateDetector_VERSION_MINOR@
